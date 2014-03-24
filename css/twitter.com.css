@@ -1,14 +1,21 @@
+/* ====================================================
+   Resetting 
+   ==================================================== */
+
 /* Hide some stuff */
 .Footer,
 .trends,
 .wtf-module.has-content,
 .home-tweet-box,
-.enhanced-media-thumbnails,
 .promoted-tweet,
 .module[data-component-term^="profile_tweetbox"],
 .bird-topbar-etched { 
   display: none !important; 
 }
+
+/* ====================================================
+   Modules 
+   ==================================================== */
 
 .profile-summary {
   border-radius: 0 0 6px 6px;
@@ -16,4 +23,16 @@
 
 .mini-profile-stats-container .stats {
   border-radius: 0 0 5px 5px;
+}
+
+/* ====================================================
+   Tweet 
+   ==================================================== */
+
+.persistent-inline-actions .tweet .tweet-actions {
+  display: none !important;
+}
+
+.persistent-inline-actions .tweet:hover .tweet-actions {
+  display: inline-block !important;
 }
