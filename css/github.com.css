@@ -1,0 +1,9 @@
+/* Hide some stuff */
+.repository-lang-stats-graph {
+  display: none !important;
+}
+
+/* correct border radius for summary */
+.overall-summary {
+  border-radius: 3px;
+}
