@@ -12,5 +12,5 @@ Create symlinks for `~/.js` and `~/.css`:
     $ ln -s  /path/to/tinytweaks/css/ ~/.css
 
 ## Get in touch
-If you have any questions, thoughts, improvements or modifications 
-create an issue, fork this repo or hit me up on twitter.
+If you have any questions, thoughts, improvements or modifications  
+create an issue, fork this repo or hit me up on [twitter](https://twitter.com/rnarius).
