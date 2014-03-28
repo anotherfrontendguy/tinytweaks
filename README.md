@@ -1,5 +1,5 @@
 # tinytweaks
-tweaking the web
+Tweaking the web with dotjs and dotcss.
 
 ## Usage
 Install [dotjs](http://github.com/defunkt/dotjs) and
