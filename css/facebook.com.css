@@ -1,8 +1,17 @@
-#leftCol,
-#pageLogo,
-.ego_section {
+/**
+ * Hide some stuff I never use
+ * [1]  entire left column
+ * [2]  facebook-logo in blueBar
+ * [3]  recommended pages
+ */
+
+#leftCol,                     /*[1]*/
+#pageLogo,                    /*[2]*/
+.ego_section {                /*[3]*/
   display: none !important;
 }
+
+/* more room for newsfeed */
 
 .home #globalContainer {
   width: 100% !important;
@@ -10,4 +19,14 @@
 
 .home #contentArea {
   width: 960px !important;
+}
+
+/* align search bar and pageNav */
+
+#pageHead {
+  margin-left: 183px !important;
+}
+
+._585- {
+  margin-left: 0 !important;
 }
