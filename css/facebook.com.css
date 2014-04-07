@@ -1,0 +1,13 @@
+#leftCol,
+#pageLogo,
+.ego_section {
+  display: none !important;
+}
+
+.home #globalContainer {
+  width: 100% !important;
+}
+
+.home #contentArea {
+  width: 960px !important;
+}
