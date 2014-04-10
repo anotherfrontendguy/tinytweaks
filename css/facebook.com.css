@@ -30,3 +30,9 @@
 ._585- {
   margin-left: 0 !important;
 }
+
+/* align group & event  headers */
+
+#headerArea {
+  width: 960px !important;
+}
